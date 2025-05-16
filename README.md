@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AtteraxSounds</h1>
-<h3 align="center">I'm still trying to sum 2 strings</h3>
+<h3 align="center">Good People Good Times</h3>
 
 - 🔭 I’m currently working on **Software Dev Bachelors Degree**
 
